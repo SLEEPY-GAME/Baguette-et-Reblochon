@@ -19,5 +19,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/Baguette-et-Reblochon/', // Replace <repository-name> with your GitHub repository name
+  base: '/', // Replace <repository-name> with your GitHub repository name
 }));
